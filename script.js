@@ -1,4 +1,5 @@
 var gulp = require('gulp');
+var aaa='aaa';
 var $    = require('gulp-load-plugins')();
 var path = require('path');
 var del  = require('del');
